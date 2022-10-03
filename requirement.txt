@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 pandas 
 numpy
 seaborn
 matplotlib
+
+
+## changes made by developer2 here
